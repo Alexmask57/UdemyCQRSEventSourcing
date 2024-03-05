@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8ZeU+HtAOXtJvRs/GYCjW+NI/xL/KgDpaA1EE9DM7d6AkVlO+Bbl43hHXTug5I5nkYn6la6WIzCSQGDi5cnB+Q==",
+  "dgSpecHash": "aRlykVrqH5WTbTmR/0r8aXJe6PMIDSzpFw0xsCA2vu1aIK+uxllbetD+ygpuRO2HVqowjd3lRSav9i7/sPCG0w==",
   "success": true,
   "projectFilePath": "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Query/Post.Query.Infrastructure/Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/Users/alexismaskio/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/Users/alexismaskio/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
@@ -18,6 +19,7 @@
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.proxies/8.0.2/microsoft.entityframeworkcore.proxies.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.sqlserver/8.0.2/microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",

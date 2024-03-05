@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Post.Cmd.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b308aa802acb20bead33f54cbb36d29c47b5605c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a3ff09aa53d87c50d7065c39b53d7f54be7007")]
 [assembly: System.Reflection.AssemblyProductAttribute("Post.Cmd.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Post.Cmd.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

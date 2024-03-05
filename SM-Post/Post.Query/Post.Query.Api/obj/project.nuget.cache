@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/pbK0SGdeHOSnF+EjCdDC5nbsYai3iuxygy8yG7vBDjjpt6XwcaXWOLBgZGfBhOqpzqf+W6dhTLMjZb/IYwzLw==",
+  "dgSpecHash": "9BW7txRHNpHayqYgP5ub55+TORhGB4FxKEgu7ZBX+6lsR8QOQhgL8CEO2VT3+SwZ93PVyYQHbfpbvv1QutPxIA==",
   "success": true,
   "projectFilePath": "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Query/Post.Query.Api/Post.Query.Api.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/Users/alexismaskio/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/Users/alexismaskio/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/confluent.kafka/2.3.0/confluent.kafka.2.3.0.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/librdkafka.redist/2.3.0/librdkafka.redist.2.3.0.nupkg.sha512",
@@ -19,6 +20,7 @@
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.proxies/8.0.2/microsoft.entityframeworkcore.proxies.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.entityframeworkcore.sqlserver/8.0.2/microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512",
     "/Users/alexismaskio/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
