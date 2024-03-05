@@ -27,7 +27,21 @@ services:
       - KAFKA_CFG_AUTO_CREATE_TOPICS_ENABLE=true
     depends_on:
       - zookeeper
-      
+
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql
+    ports:
+      - "1433:1433"
+    restart: always
+    environment:
+      ACCEPT_EULA: 'Y'
+      MSSQL_SA_PASSWORD: 'azgv221jhbUBHIK'
+      MSSQL_PID: 'Express'
+      MSSQL_TCP_PORT: 1433 
+    networks:
+      - default
+        
 volumes:
   zookeeper_data:
     driver: local
