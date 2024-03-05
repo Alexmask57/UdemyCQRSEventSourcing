@@ -1,0 +1,16 @@
+/CRQS-ES/CQRS.Core/bin/
+/CRQS-ES/CQRS.Core/obj/
+/SM-Post/Post.Common/bin/
+/SM-Post/Post.Common/obj/
+/SM-Post/Post.Cmd/Post.Cmd.Api/bin/
+/SM-Post/Post.Cmd/Post.Cmd.Api/obj/
+/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/bin/
+/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/obj/
+/SM-Post/Post.Cmd/Post.Cmd.Domain/bin/
+/SM-Post/Post.Cmd/Post.Cmd.Domain/obj/
+/SM-Post/Post.Query/Post.Query.Domain/bin/
+/SM-Post/Post.Query/Post.Query.Domain/obj/
+/SM-Post/Post.Query/Post.Query.Api/bin/
+/SM-Post/Post.Query/Post.Query.Api/obj/
+/SM-Post/Post.Query/Post.Query.Infrastructure/bin/
+/SM-Post/Post.Query/Post.Query.Infrastructure/obj/

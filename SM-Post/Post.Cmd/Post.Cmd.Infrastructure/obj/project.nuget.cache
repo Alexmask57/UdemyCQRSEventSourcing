@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2f97foKa+VOcdRX3W4t2cfNDXYTLkXjj2t8QMu+sNzVH2h2PtsZ4bQPFOGpvajjFh69e8VSBidNSM3If+ds4Dw==",
+  "dgSpecHash": "TihkJHJGDgu5VwmWiKwD/rYF30fovjmcVa0IMF+HMS36HNlS460lUN6/KxZAU4SoyklmQBrM5WaJ/d9HRdK6uQ==",
   "success": true,
   "projectFilePath": "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Cmd/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [

@@ -1942,7 +1942,6 @@
           "Confluent.Kafka": "2.3.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2",
           "Microsoft.Extensions.Hosting": "9.0.0-preview.1.24080.9",
-          "Post.Common": "1.0.0",
           "Post.Query.Domain": "1.0.0"
         },
         "compile": {

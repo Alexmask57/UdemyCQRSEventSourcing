@@ -1189,8 +1189,7 @@
       "Confluent.Kafka >= 2.3.0",
       "Microsoft.Extensions.Options >= 8.0.2",
       "MongoDB.Driver >= 2.24.0",
-      "Post.Cmd.Domain >= 1.0.0",
-      "Post.Common >= 1.0.0"
+      "Post.Cmd.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1224,9 +1223,6 @@
             },
             "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj": {
               "projectPath": "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Cmd/Post.Cmd.Domain/Post.Cmd.Domain.csproj"
-            },
-            "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Common/Post.Common.csproj": {
-              "projectPath": "/Users/alexismaskio/RiderProjects/UdemyCQRSEventSourcing/SM-Post/Post.Common/Post.Common.csproj"
             }
           }
         }
