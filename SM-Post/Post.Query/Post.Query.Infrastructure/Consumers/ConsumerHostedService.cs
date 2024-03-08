@@ -23,7 +23,7 @@ public class ConsumerHostedService : IHostedService
         using (IServiceScope scope = _serviceProvider.CreateScope())
         {
             var eventConsumer = scope.ServiceProvider.GetRequiredService<IEventConsumer>();
-            var topic = Environment.GetEnvironmentVariable("KAFLA_TOPIC");
+            var topic = Environment.GetEnvironmentVariable("KAFKA_TOPIC");
             Task.Run(() => { eventConsumer.Consume(topic); }, cancellationToken);
         }
 
