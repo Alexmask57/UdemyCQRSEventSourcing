@@ -15,3 +15,5 @@
 /SM-Post/Post.Query/Post.Query.Api/obj/
 /SM-Post/Post.Query/Post.Query.Infrastructure/bin/
 /SM-Post/Post.Query/Post.Query.Infrastructure/obj/
+**/bin/
+**/obj/
