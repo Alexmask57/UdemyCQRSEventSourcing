@@ -52,4 +52,9 @@ public class CommandHandler(IEventSourcingHandler<PostAggregate> eventSourcingHa
         aggregate.DeletePost(command.Username);
         await eventSourcingHandler.SaveAsync(aggregate);
     }
+
+    public async Task HandleAsync(RestoreReadDbCommand command)
+    {
+        await eventSourcingHandler.RepublishEventsAsync();
+    }
 }

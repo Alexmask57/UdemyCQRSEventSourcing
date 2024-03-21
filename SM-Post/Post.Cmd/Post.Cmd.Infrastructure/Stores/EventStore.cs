@@ -48,4 +48,13 @@ public class EventStore(IEventStoreRepository eventStoreRepository, IEventProduc
             throw new AggregateNotFoundException("Incorrect post ID provided.");
         return eventStream.OrderBy(x => x.Version).Select(x => x.EventData).ToList();
     }
+
+    public async Task<List<Guid>> GetAggregateIdsAsync()
+    {
+        var eventStream = await eventStoreRepository.FindAllAsync();
+
+        if (eventStream == null || !eventStream.Any())
+            throw new ArgumentNullException(nameof(eventStream), "Could not retrieve event stream from event store.");
+        return eventStream.Select(x => x.AggregateIdentifier).Distinct().ToList();
+    }
 }
