@@ -11,6 +11,7 @@ services:
       - "zookeeper_data:/bitnami"
     environment:
       - ALLOW_ANONYMOUS_LOGIN=yes
+        
   kafka:
     image: docker.io/bitnami/kafka:3.5
     container_name: kafka
@@ -41,15 +42,25 @@ services:
       MSSQL_TCP_PORT: 1433 
     networks:
       - default
+      
+  mongo-container:
+    container_name: mongo-container
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - "mongodb_data_container:/data/db"
+    restart: always
         
 volumes:
   zookeeper_data:
     driver: local
   kafka_data:
     driver: local
+  mongodb_data_container:
+    driver: local
    
 networks:
-  default:    
-    name: mydockernetwork
-    external: true
+  default:
+    name: my_docker_network
     
